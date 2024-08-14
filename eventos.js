@@ -1,5 +1,7 @@
-button.onclick function Saludo(){
-    alert("Hola");
-}
+document.getElementById('boton').addEventListener('click', function() {
+    alert('Hola! Soy el div');
+});
 
-Saludo();
+function saludar() {
+    alert('Hola!');
+}
