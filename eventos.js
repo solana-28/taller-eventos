@@ -1,4 +1,4 @@
-function Saludo(){
+button.onclick function Saludo(){
     alert("Hola");
 }
 
