@@ -5,3 +5,5 @@ document.getElementById('boton').addEventListener('click', function() {
 function saludar() {
     alert('Hola!');
 }
+
+document.removeEventListener("click", function());
